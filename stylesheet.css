@@ -1,0 +1,29 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.header {
+    background-color: #DDDDDD;
+  }
+
+.top-wrapper{  
+  height: 1200px;
+  background-image: url(/001G.jpg);  /*publicフォルダの画像にアクセスするときは/がいるらしい */
+  background-size: cover;
+
+}
+
+.title{
+  font-size: 72px;
+  padding: 450px;
+  color: rgb(236, 139, 27);
+}
+
+.footer {
+    background-color: #DDDDDD;
+  }
+
+
+ul {
+    list-style: none;
+}
